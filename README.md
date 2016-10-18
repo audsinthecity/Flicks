@@ -35,6 +35,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/TAyh5n6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Network error:
+
 <img src='http://i.imgur.com/6Y2rbEW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
