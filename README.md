@@ -42,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I repeated code in the refresh and viewDidLoad. I feel like there must be a better way to do that to avoid duplication. Note to self- keep committing. Had all the requireds and several optionals when adding a search bar to main.storyboard screwed up the whole thing on the day of submission and I had to recreate a view and rehook up all the connections.
+I repeated code in the refresh and viewDidLoad. I feel like there must be a better way to do that to avoid duplication. Note to self- keep committing. Had all the requireds and several optionals when adding a search bar to main.storyboard screwed up the whole thing on the day of submission and I had to recreate the movie viewcontroller and rehook up all the connections.
 
 ## License
 
