@@ -2,7 +2,7 @@
 
 Flicks is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: 8 hours spent in total
+Time spent: 12 hours spent in total
 
 ## User Stories
 
@@ -19,10 +19,10 @@ The following **optional** features are implemented:
 - [ ] Add a tab bar for **Now Playing** and **Top Rated** movies.
 - [ ] Implement segmented control to switch between list view and grid view.
 - [ ] Add a search bar.
-- [ ] All images fade in.
-- [ ] For the large poster, load the low-res image first, switch to high-res when complete.
-- [ ] Customize the highlight and selection effect of the cell.
-- [ ] Customize the navigation bar.
+- [X] All images fade in.
+- [X] For the large poster, load the low-res image first, switch to high-res when complete.
+- [X] Customize the highlight and selection effect of the cell.
+- [X] Customize the navigation bar.
 
 The following **additional** features are implemented:
 
@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I repeated code in the refresh and viewDidLoad. I feel like there must be a better way to do that to avoid duplication. Note to self- keep committing. Had all the requireds and several optionals when adding a search bar to main.storyboard screwed up the whole thing on the day of submission and I had to recreate a view and rehook up all the connections.
 
 ## License
 
